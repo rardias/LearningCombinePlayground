@@ -1,4 +1,4 @@
-# AppleCombinePlayground
+# _"Learning Combine"_ Playground
 A simple playground created while learning Apple's (relatively) new framework, Combine. Shared it, since it may help others as well.
 
 ## Work in progress
