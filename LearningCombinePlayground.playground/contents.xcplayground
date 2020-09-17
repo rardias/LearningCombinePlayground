@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Foundation asynchronous interfaces'/>
+        <page name='What is Apple Combine?'/>
+        <page name='Key Concepts'/>
+        <page name='Revisisting Foundation + Combine'/>
+        <page name='Convenience Subscribers'/>
+        <page name='Subjects'/>
+        <page name='Convenience Publishers'/>
+        <page name='Convenience Publishers + Promises'/>
+        <page name='Convenience Publishers + @Published'/>
+        <page name='Subscription lifecycle'/>
+        <page name='Cancellation + Memory Management'/>
+        <page name='Common Operators'/>
+        <page name='Combining Operators'/>
+        <page name='Timing Control Operators'/>
+        <page name='Scheduler Specifying Operators'/>
+        <page name='Debugging Operators'/>
+        <page name='Flatmap + Error Handling'/>
+    </pages>
+</playground>
